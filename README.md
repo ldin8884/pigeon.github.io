@@ -1,4 +1,4 @@
-# https://pigeon.github.io
+# pigeon.github.io
 <!doctype html>
 <html lang="en">
   <head>
